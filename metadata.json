@@ -1,0 +1,6 @@
+{
+  "name": "Stedify",
+  "description": "Local-first habit, routine, and consistency tracking app with AI-powered day optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
